@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from postit_rush.main import Main
 
 if __name__ == '__main__':
